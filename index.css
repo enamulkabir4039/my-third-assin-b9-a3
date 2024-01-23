@@ -1,0 +1,32 @@
+.font-roboto{
+    font-family: 'Roboto', sans-serif;
+   }
+
+   /* professional section */
+
+.professional{
+    text-align: center;
+    padding-top: 7%;
+    /* width: 1040px; */
+    height: 250px;
+   }
+/* .professional-des{ */
+    /* width: 607px; */
+    /* color: rgba(19, 19, 24, 0.60); */
+    /* text-align: center; */
+    /* font-family: Manrope; */
+    /* font-size: 16px; */
+    /* font-style: normal; */
+    /* font-weight: 500; */
+    /* line-height: 26px; 162.5% */
+    /* margin-left: 360px; */
+    /* margin-top: 10px; */
+/* } */
+
+/* @media screen and (max-width:600px) { */
+    /* .professional-des{ */
+        /* width: 0px; */
+        /* text-align: justify; */
+    /* } */
+    
+/* } */
