@@ -101,12 +101,25 @@
     margin-top: 40px;
     justify-content: center;
     height: 750px;
-    width: 900px;
+    width: 800px;
     gap: 10px;
     padding-left: 3px;
+    /* width: 335px; */
+    /* height: 244px; */
+    /* flex-shrink: 0; */
    }
    .junior-des{
       justify-content: center;
+      width: 277px;
+      color: #FFF;
+      /* font-family: Manrope; */
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 14px; /* 171.429% */
+   }
+   .product{
+      flex-direction: column;
    }
   
    
